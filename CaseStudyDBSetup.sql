@@ -5,8 +5,6 @@ INSERT INTO Brands (Id,Name) VALUES (2,'HP');
 INSERT INTO Brands (Id,Name) VALUES (3,'Asus');
 INSERT INTO Brands (Id,Name) VALUES (4,'Lenovo');
 SET IDENTITY_INSERT Brands OFF
-GO
-
 
 DELETE FROM Products;
 INSERT INTO Products 

@@ -50,7 +50,7 @@ VALUES  (8, 2, 'HP Pavilion 15-au118ca', 'hp-pavillion', 729.00, 729.00, 120, 0,
 
 INSERT INTO Products 
 		(Id, BrandId, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder,Description)
-VALUES  (9, 2, 'HP Stream 14-ax010ca Cloudbook', 'hp-stream', 319.00, 319.00, 20, 0, 'Designed for the always connected life, this nimble laptop lets you easily shift from homework workhorse to marathoning your favorite shows. With its portable design and powerful Wi-Fi antenna, it delivers the essential productivity and features you want, without ever slowing you down.');
+VALUES  (9, 2, 'HP Stream 14 Cloudbook', 'hp-stream', 319.00, 319.00, 20, 0, 'Designed for the always connected life, this nimble laptop lets you easily shift from homework workhorse to marathoning your favorite shows. With its portable design and powerful Wi-Fi antenna, it delivers the essential productivity and features you want, without ever slowing you down.');
 
 INSERT INTO Products 
 		(Id, BrandId, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder,Description)

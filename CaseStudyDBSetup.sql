@@ -19,7 +19,7 @@ VALUES  (1, 1, 'MacBook', 'macbook', 109.99, 109.99, 3, 0, 'Our goal with MacBoo
 
 INSERT INTO Products 
 		(Id, BrandId, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder,Description)
-VALUES  (2, 1, 'MacBook Air', 'macbook-air', 99.00, 99.00, 10, 0, 'MacBook Air lasts up to an incredible 12 hours between charges. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 12 hours of iTunes movie playback. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.');
+VALUES  (2, 1, 'MacBook Air', 'macbook-air', 99.99, 99.99, 10, 0, 'MacBook Air lasts up to an incredible 12 hours between charges. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 12 hours of iTunes movie playback. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.');
 
 
 INSERT INTO Products 

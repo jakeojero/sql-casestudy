@@ -14,12 +14,12 @@ GO
 DELETE FROM Products;
 INSERT INTO Products 
 		(Id, BrandId, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder,Description)
-VALUES  (1, 1, 'MacBook', 'macbook', 1729.00, 1729.00, 100, 0, 'Our goal with MacBook was to do the impossible: engineer a full‑size experience into the thinnest, lightest Mac notebook yet. And not only is it compact — it’s more powerful than ever. The new MacBook delivers up to 20 percent faster performance with new seventh‑generation Intel Core m3, i5 and i7 processors, and up to 50 percent faster SSD storage.');
+VALUES  (1, 1, 'MacBook', 'macbook', 109.99, 109.99, 3, 0, 'Our goal with MacBook was to do the impossible: engineer a full‑size experience into the thinnest, lightest Mac notebook yet. And not only is it compact — it’s more powerful than ever. The new MacBook delivers up to 20 percent faster performance with new seventh‑generation Intel Core m3, i5 and i7 processors, and up to 50 percent faster SSD storage.');
 
 
 INSERT INTO Products 
 		(Id, BrandId, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder,Description)
-VALUES  (2, 1, 'MacBook Air', 'macbook-air', 1199.00, 1199.00, 50, 0, 'MacBook Air lasts up to an incredible 12 hours between charges. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 12 hours of iTunes movie playback. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.');
+VALUES  (2, 1, 'MacBook Air', 'macbook-air', 99.00, 99.00, 10, 0, 'MacBook Air lasts up to an incredible 12 hours between charges. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 12 hours of iTunes movie playback. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.');
 
 
 INSERT INTO Products 
